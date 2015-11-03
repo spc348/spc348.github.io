@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## About
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Sam Cahn is a graduate of the Games for Learning MS program at NYU. At Games for Learning, Sam learned about educational design of interactive digital experiences. Sam focused on designing games and interactive experiences using the Unity3D game engine, Processing, and Phaser framework.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+To further his ability to craft and create meaningful experiences through software, Sam has and continues to study C#, java, android, python and pretty much anything that strikes his fancy.
