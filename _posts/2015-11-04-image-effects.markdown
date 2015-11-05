@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Image Effects"
-date:   2015-11-02 23:45:21
+date:   2015-11-04 23:45:21
 categories: Unity3D
 ---
 
@@ -20,4 +20,4 @@ The tools that Unity provides standard (and free) are really excellent and easy 
 Anyway, this was just a bit of fun.
 
 
-Play the game [here]("/_games/Realism/index.html)
+Play the game [here](../_games/Realism/index.html)
