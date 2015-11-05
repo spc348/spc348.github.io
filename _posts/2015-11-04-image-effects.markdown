@@ -20,4 +20,4 @@ The tools that Unity provides standard (and free) are really excellent and easy 
 Anyway, this was just a bit of fun.
 
 
-Play the game [here](../_games/Realism/index.html)
+Play the game [here](http://spc348.github.io/_games/Realism/index.html)
